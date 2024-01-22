@@ -4,15 +4,21 @@
 }
 body{
     background-color: #EFF0F6;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
     
 }
 
 .box{
     background-color: #fff;
     width:440px;
-    height:430px;
+    height:520px;
     margin: 50px;
     padding: 30px;
+    border-radius: 20px;
+    
+    
     
 }
 
@@ -22,17 +28,167 @@ body{
 }
 
 .box1{
- padding: 30px;
+ padding-bottom:30px;
+ padding-left: 30px;
 }
 
 .box2{
     margin: 30px;
+    padding-left: 150px;
 }
 
 .box3{
-    padding: 30px;
+    padding-bottom:30px;
+    padding-left:30px ;
 }
 
 .box3 .yorum{
    margin-right: 10px;
+}
+
+
+.steve2{
+     display: flex;
+    align-items: center;
+}
+
+.box4{
+     margin: 30px;
+    padding-left: 150px;
+}
+
+.box5{
+padding-bottom:30px;
+ padding-left: 30px;
+}
+
+.box6{
+    padding-bottom:30px;
+    padding-left:30px;
+}
+
+
+.box6 .yorum{
+     margin-right: 10px;
+}
+
+.steve3{
+     display: flex;
+    align-items: center;
+}
+
+.box7{
+      margin: 30px;
+    padding-left: 150px;
+}
+
+.box8{
+padding-bottom:30px;
+ padding-left: 30px;
+}
+
+.box9{
+     padding-bottom:30px;
+    padding-left:30px;
+}
+
+.box9 .yorum{
+     margin-right: 10px;
+}
+
+
+.space{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.box10{
+width: 440px;
+height: 91px;
+background-color: #fff;
+border-radius: 20px;
+margin-top: 30px;
+}
+
+
+.box10 p{
+    padding-top:35px;
+    padding-left: 35px;
+}
+
+.box10 img{
+    padding-bottom:50px;
+    padding-left: 400px;
+}
+
+
+.box11{
+width: 450px;
+height: 151px;
+background-color: #fff;
+border-radius: 20px;
+margin-top: 30px;
+}
+
+.box11 h6{
+ padding-top:35px;
+ padding-left: 35px;
+}
+
+.box11 p{
+    padding-top: 10px; 
+}
+
+.box11 img{
+ padding-bottom:10px;
+padding-left: 400px;
+}
+
+
+.box12{
+    width: 440px;
+    height: 91px;
+    background-color: #fff;
+    border-radius: 20px;
+    margin-top: 30px;
+    }
+    
+    
+    .box12 p{
+        padding-top:35px;
+        padding-left: 35px;
+    }
+    
+    .box12 img{
+        padding-bottom:50px;
+        padding-left: 400px;
+    }
+    
+.extension{
+width: 895px;
+height: 68px;
+background-color: #fff;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-right: 50px;
+border-radius: 20px;
+margin-top: 30px;
+}   
+
+.extension p{
+  padding-right: 30px;  
+}
+
+.cub1{
+    padding-left:100px ;
+   padding-right: 10px; 
+}
+
+.cub2{
+background-color: #151533;
+width: 65px;
+height: 20px;
 }
